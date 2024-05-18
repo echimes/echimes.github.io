@@ -1,3 +1,12 @@
+Big thanks to AJ and their work at html5p.net, which features tons of beautifully made website templates.
+
+I modified the Read Only page to suit my needs. AJ's readme is below:
+
+-----------------------------------------------------------------------------------------------------------
+
+
+
+
 Read Only by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
